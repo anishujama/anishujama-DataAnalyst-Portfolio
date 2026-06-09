@@ -29,23 +29,23 @@ Aspiring Data Analyst with hands-on experience in Data Cleaning, SQL Analysis, B
 - Business Analytics
 
 ---
-## Portfolio Preview
-
 ### Power BI Dashboard
 
-![Dashboard](Assets/D1.png)
-![Dashboard](Assets/D2.png)
-![Dashboard](Assets/D3.png)
+![Dashboard](Assets/D1.PNG)
+
+![Dashboard](Assets/D2.PNG)
+
+![Dashboard](Assets/D3.PNG)
 
 ### SQL Business Analysis
 
-![SQL Analysis](Assets/Analysis1.png)
-![SQL Analysis](Assets/Analysis2.png)
+![SQL Analysis](Assets/Analysis1.PNG)
+
+![SQL Analysis](Assets/Analysis2.PNG)
 
 ### Business Presentation
 
-![Presentation](Assets/Presentation.png)
-
+![Presentation](Assets/Presentation.PNG)
 # Featured Projects
 
 ## Project 1: Data Cleaning & Wrangling
