@@ -47,7 +47,7 @@ Prepare raw sales data for analysis by handling missing values, duplicates, outl
 ### Skills Used
 Python, Pandas, Data Cleaning
 
-🔗 Repository: [Add Project 1 Link]
+🔗 Repository: [https://github.com/anishujama/sales-transaction-data-cleaning]
 
 ---
 
@@ -66,7 +66,7 @@ Analyze business performance and answer key business questions using SQL.
 ### Skills Used
 SQL, MySQL, Business Intelligence
 
-🔗 Repository: [Add Project 2 Link]
+🔗 Repository: [https://github.com/anishujama/sales-sql-business-analysis]
 
 ---
 
@@ -86,7 +86,7 @@ Build an interactive Power BI dashboard for KPI monitoring and business performa
 ### Skills Used
 Power BI, DAX, Data Visualization
 
-🔗 Repository: [Add Project 3 Link]
+🔗 Repository: [https://github.com/anishujama/sales-performance-dashboard]
 
 ---
 
@@ -105,7 +105,7 @@ Transform analytical findings into business recommendations and validate insight
 ### Skills Used
 Python, Statistics, SciPy, Business Storytelling
 
-🔗 Repository: [Add Project 4 Link]
+🔗 Repository: [https://github.com/anishujama/sales-insights-storytelling-analysis]
 
 ---
 
