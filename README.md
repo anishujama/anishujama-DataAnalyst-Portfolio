@@ -29,6 +29,22 @@ Aspiring Data Analyst with hands-on experience in Data Cleaning, SQL Analysis, B
 - Business Analytics
 
 ---
+## Portfolio Preview
+
+### Power BI Dashboard
+
+![Dashboard](assets/D1.png)
+![Dashboard](assets/D2.png)
+![Dashboard](assets/D3.png)
+
+### SQL Business Analysis
+
+![SQL Analysis](assets/Analysis1.png)
+![SQL Analysis](assets/Analysis2.png)
+
+### Business Presentation
+
+![Presentation](assets/Presentation.png)
 
 # Featured Projects
 
