@@ -127,7 +127,7 @@ Python, Statistics, SciPy, Business Storytelling
 
 GitHub: https://github.com/anishujama
 
-LinkedIn: [Add Your LinkedIn URL]
+LinkedIn: [https://www.linkedin.com/in/anishujama/]
 
 ---
 
